@@ -1,6 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import style from "./App.css";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import style from './App.css';
 
 const App = () => {
   return (
@@ -16,4 +16,4 @@ const App = () => {
   );
 };
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById('root'));
